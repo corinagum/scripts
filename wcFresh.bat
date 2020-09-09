@@ -1,0 +1,5 @@
+call git clone git@github.com:corinagum/BotFramework-WebChat.git
+cd BotFramework-WebChat
+call git remote add upstream vgit@github.com:microsoft/BotFramework-WebChat.git
+call npm i
+call code .
