@@ -1,0 +1,1 @@
+wt -p "Command Prompt" -d C:\Users\Corina\dev\doubles\BF-WC-ALT1 --title "WC Alt1"; split-pane -p "Command Prompt" -d C:\Users\Corina\dev\doubles\BF-WC-ALT1 ; split-pane -H -p "Command Prompt" -d C:\Users\Corina\dev\doubles\BF-WC-ALT1;
