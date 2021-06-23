@@ -1,0 +1,1 @@
+call vsts-npm-auth -config ./.npmrc
