@@ -1,2 +1,2 @@
-wt -d D:\OneDrive\scripts --title "Scripts"
+cd D:\OneDrive\scripts
 call code .
