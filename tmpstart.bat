@@ -1,1 +1,1 @@
-call yarn start multi-window --port 8080
+call yarn start multi-window --port 8080 --memory 8192
